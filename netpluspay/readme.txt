@@ -1,4 +1,4 @@
-=== Netpluspay WooCommerce Payment ===
+﻿=== Netpluspay WooCommerce Payment ===
 Contributors: NetplusDotCom
 Donate Link:  NIL
 Tags: Woocommerce, Payment Gateway, Payment Gateways, Payment Plugin, Visa, MasterCard, Internet banking, Nigeria
@@ -87,23 +87,4 @@ __*You can select the radio button next to the Netpluspay Payment Gateway from t
 == Changelog ==
 
 = 1.0.0 =
-*   First release
-
-
-
-== Upgrade Notice ==
- ** NIL
-
-
-
-
-
-== Screenshots ==
-
-
-1. CashEnvoy Wooocommerce Payment Plugin Setting Page
-
-2. CashEnvoy Wooocommerce Payment Plugin method on the checkout page
-
-3. Successful Payment Transaction Message
-
+* 
